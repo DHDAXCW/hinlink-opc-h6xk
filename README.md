@@ -1,5 +1,5 @@
 # 中文简体 | [English](https://github.com/DHDAXCW/NanoPi-R5S-2021/blob/main/EngLish.md)
-# NanoPi-R5S NanoPi-R5C
+# hinlink opc h68k h69k
 # 机场推荐 [ENET--IEPL内网专线接入](https://www.easy2023.com/#/register?code=Ut7iWMrk)
 ## 👉使用本固件前，请严格遵守国家互联网使用相关法律规定,不要违反国家法律规定！👈
 ## 未经许可不得用于任何商用用途。
