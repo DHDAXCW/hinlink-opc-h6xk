@@ -31,6 +31,10 @@
 - 电报群：https://t.me/DHDAXCW
 - X86固件 ：[点击链接下载](https://github.com/DHDAXCW/OpenWRT_x86_x64/releases)
 - 仅支持MT7921无线网卡
+
+### 5G模块启用方法
+- 不管是fm160或者ru500q都可以用
+- 
 # 插件展示
  
  ![image](https://user-images.githubusercontent.com/74764072/183227361-e8bdb023-5514-437d-97e8-e13ca4285035.png)
