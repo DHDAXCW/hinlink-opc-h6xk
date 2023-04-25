@@ -33,8 +33,20 @@
 - 仅支持MT7921无线网卡
 
 ### 5G模块启用方法
-- 不管是fm160或者ru500q都可以用
-- 
+- 不管是广和通fm160或者移远rm500q都可以用
+- 网络--USB移动网络拨号服务
+- 移动：cmnet  联通：3gnet 电信：ctnet
+![1682406728444](https://user-images.githubusercontent.com/74764072/234201770-3a796152-5873-4152-a34b-705eeb49bfd4.jpg)
+
+- 创建WWA进行拨号：网络--接口--新建接口
+![image](https://user-images.githubusercontent.com/74764072/234204127-8c40ef24-2e15-4991-a13b-b133bb97b38c.png)
+
+- WWAN-编辑--绑定防火墙
+![image](https://user-images.githubusercontent.com/74764072/234204460-ae98b1d5-85b6-4c28-8b17-1926b5f8f6ce.png)
+
+- 最后成功拨号
+![image](https://user-images.githubusercontent.com/74764072/234204830-708bca0e-c135-4d0c-bd10-c8a1fb0ca288.png)
+
 # 插件展示
  
  ![image](https://user-images.githubusercontent.com/74764072/183227361-e8bdb023-5514-437d-97e8-e13ca4285035.png)
