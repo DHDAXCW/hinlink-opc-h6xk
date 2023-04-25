@@ -30,7 +30,7 @@
 - Docker：正式版带docker，有超频，带有docker插件。（对passwall的udp要求很高，不要刷docker版本）
 - 电报群：https://t.me/DHDAXCW
 - X86固件 ：[点击链接下载](https://github.com/DHDAXCW/OpenWRT_x86_x64/releases)
-- 仅支持MT7921无线网卡
+- 仅支持MT7921无线网卡 全新刷机第一次开机网卡需要初始化，等2分钟无线自己会显示在网络里面
 
 ### 5G模块启用方法
 - 不管是广和通fm160或者移远rm500q都可以用  不要插**SIM2**
