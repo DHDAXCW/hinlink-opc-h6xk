@@ -35,7 +35,7 @@
 ### 5G模块启用方法
 - 不管是广和通fm160或者移远rm500q都可以用  不要插**SIM2**
 - 网络--USB移动网络拨号服务
-- 移动：cmnet  联通：3gnet 电信：ctnet
+- APN:移动：cmnet  联通：3gnet 电信：ctnet
 ![1682406728444](https://user-images.githubusercontent.com/74764072/234201770-3a796152-5873-4152-a34b-705eeb49bfd4.jpg)
 
 - 创建WWA进行拨号：网络--接口--新建接口
