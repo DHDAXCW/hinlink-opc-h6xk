@@ -154,10 +154,10 @@ jobs:
         rm -rf openwrt-rockchip-armv8-rootfs.tar.gz
         rm -rf config.buildinfo
         rm -rf packages-server.zip
-        mv openwrt-rockchip-armv8-hinlink_opc-h66k-ext4-sysupgrade.img.gz docker-hinlink_opc-h68k-ext4-sysupgrade.img.gz
+        mv openwrt-rockchip-armv8-hinlink_opc-h66k-ext4-sysupgrade.img.gz docker-hinlink_opc-h66k-ext4-sysupgrade.img.gz
         mv openwrt-rockchip-armv8-hinlink_opc-h68k-ext4-sysupgrade.img.gz docker-hinlink_opc-h68k-ext4-sysupgrade.img.gz 
         mv openwrt-rockchip-armv8-hinlink_opc-h69k-ext4-sysupgrade.img.gz docker-hinlink_opc-h69k-ext4-sysupgrade.img.gz 
-        mv openwrt-rockchip-armv8-hinlink_opc-h66k-squashfs-sysupgrade.img.gz docker-hinlink_opc-h68k-squashfs-sysupgrade.img.gz
+        mv openwrt-rockchip-armv8-hinlink_opc-h66k-squashfs-sysupgrade.img.gz docker-hinlink_opc-h66k-squashfs-sysupgrade.img.gz
         mv openwrt-rockchip-armv8-hinlink_opc-h68k-squashfs-sysupgrade.img.gz docker-hinlink_opc-h68k-squashfs-sysupgrade.img.gz
         mv openwrt-rockchip-armv8-hinlink_opc-h69k-squashfs-sysupgrade.img.gz docker-hinlink_opc-h69k-squashfs-sysupgrade.img.gz
         popd
