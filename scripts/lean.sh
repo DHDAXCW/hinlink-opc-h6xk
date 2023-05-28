@@ -65,13 +65,6 @@ git clone --depth=1 https://github.com/rufengsuixing/luci-app-onliner
 # Add ServerChan
 git clone --depth=1 https://github.com/tty228/luci-app-serverchan
 
-# Add luci-app-dockerman
-rm -rf ../../customfeeds/luci/collections/luci-lib-docker
-rm -rf ../../customfeeds/luci/applications/luci-app-docker
-rm -rf ../../customfeeds/luci/applications/luci-app-dockerman
-git clone --depth=1 https://github.com/lisaac/luci-app-dockerman
-git clone --depth=1 https://github.com/lisaac/luci-lib-docker
-
 # Add luci-theme
 git clone https://github.com/DHDAXCW/theme
 git clone --depth=1 https://github.com/jerrykuku/luci-app-argon-config
