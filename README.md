@@ -3,10 +3,6 @@
 # 机场推荐 [ENET--IEPL内网专线接入](https://www.easy2023.com/#/register?code=Ut7iWMrk)
 ## 👉使用本固件前，请严格遵守国家互联网使用相关法律规定,不要违反国家法律规定！👈
 ## 未经许可不得用于任何商用用途。
-# 网卡顺序
-- 在我这里固件上是按eth0 eth1 eth2 eth3顺序来的，硬件上走线是没错的.只是因为之前软件导致的丝印才打到外壳eth1和eth0反了
-- 如图所示，eth0作为wan，eth1 eth2 eth3都是lan
-![image](https://user-images.githubusercontent.com/74764072/234072275-53d393ce-60a8-4a32-b1b5-cb0b6b8bdd97.png)
 
 ### 注：不要用恢复备份。。不保证某个插件是否正常运行。。。建议重新设置贼好！
 
