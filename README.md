@@ -31,6 +31,7 @@
 ![image](https://github.com/DHDAXCW/hinlink-opc-h6xk/assets/74764072/879bdd0a-4077-4ba6-9ef0-afebcfcdff52)
 ![image](https://github.com/DHDAXCW/hinlink-opc-h6xk/assets/74764072/326d4759-1598-4e5f-a462-b3cb6514e428)
 - 最后应用保存再应用保存后自动跳回去，然后2.4g和5g全部启用后，信号就出来了~
+![image](https://github.com/DHDAXCW/hinlink-opc-h6xk/assets/74764072/ef716071-bf10-4243-8a7c-e903cfdd4811)
 ### 5G模块启用方法
 - 仅支持广和通fm160  我手里没有移远rm500q。。。不要插**SIM2**
 - 网络--USB移动网络拨号服务
