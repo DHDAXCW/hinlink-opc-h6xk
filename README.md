@@ -20,7 +20,17 @@
 - 电报群：https://t.me/DHDAXCW
 - X86固件 ：[点击链接下载](https://github.com/DHDAXCW/OpenWRT_x86_x64/releases)
 - 仅支持MT7921无线网卡 全新刷机第一次开机网卡需要初始化，等2分钟无线自己会显示在网络里面
-
+### mt7916 WiFi设置
+- 第一次刷机上电，网络--里面没有弹出无线的不着急了。网卡第一次上电需要初始化，大概一分钟会出现无线，下次重启不需要等待，直接用。
+- 本次教程只适用mt7916网卡，和mt7921差不多设置。
+- 进入网络--无线--选择2.4g,点击修改
+![image](https://github.com/DHDAXCW/hinlink-opc-h6xk/assets/74764072/4a8e7767-9c1f-4e00-b428-bb2b51297668)
+![image](https://github.com/DHDAXCW/hinlink-opc-h6xk/assets/74764072/02a3e011-d6fb-4e73-bbaa-cb443c3d025e)
+- 然后应用保存再应用保存。
+- 进入网络--无线--选择5g,点击修改
+![image](https://github.com/DHDAXCW/hinlink-opc-h6xk/assets/74764072/879bdd0a-4077-4ba6-9ef0-afebcfcdff52)
+![image](https://github.com/DHDAXCW/hinlink-opc-h6xk/assets/74764072/326d4759-1598-4e5f-a462-b3cb6514e428)
+- 最后应用保存再应用保存后自动跳回去，然后2.4g和5g全部启用后，信号就出来了~
 ### 5G模块启用方法
 - 仅支持广和通fm160  我手里没有移远rm500q。。。不要插**SIM2**
 - 网络--USB移动网络拨号服务
