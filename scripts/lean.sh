@@ -9,12 +9,6 @@
 
 # 🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧🚧
 
-# mt7921
-rm -rf package/kernel/mac80211
-rm -rf package/kernel/rtl8821cu
-rm -rf package/network/services/hostapd
-svn export https://github.com/openwrt/openwrt/trunk/package/kernel/mac80211 package/kernel/mac80211
-svn export https://github.com/openwrt/openwrt/trunk/package/network/services/hostapd package/network/services/hostapd
 rm -rf package/kernel/mac80211/Makefile
 cp -f $GITHUB_WORKSPACE/Makefile package/kernel/mac80211/Makefile
 
