@@ -52,6 +52,7 @@
 - 最后成功拨号
 ![image](https://user-images.githubusercontent.com/74764072/234204830-708bca0e-c135-4d0c-bd10-c8a1fb0ca288.png)
 
+- 以上设置完了后没有成功拨号，建议接天线再点连接拨号成功
 # 插件展示
  
  ![image](https://user-images.githubusercontent.com/74764072/183227361-e8bdb023-5514-437d-97e8-e13ca4285035.png)
