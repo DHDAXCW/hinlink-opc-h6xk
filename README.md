@@ -21,7 +21,7 @@
 - X86固件 ：[点击链接下载](https://github.com/DHDAXCW/OpenWRT_x86_x64/releases)
 - 仅支持MT7916 MT7921无线网卡
 - 仅支持FM160，其他模块自行解决。或者pr来~
-- 机器type-c必须协商道12V供电，低了会导致无线网卡无法设置或者重启
+- 机器type-c必须协商12V供电，低了会导致无线网卡无法设置或者重启
 - 机器开启温控风扇：启动项--rockchip-fam，点击启动即可
 ![image](https://github.com/DHDAXCW/hinlink-opc-h6xk/assets/74764072/3388c963-5407-455c-be91-d115e11f1552)
 ### mt7916 WiFi设置
