@@ -19,7 +19,8 @@
 - 烧录软件内置提供：rk356x-MiniLoaderAll.bin
 - 电报群：https://t.me/DHDAXCW
 - X86固件 ：[点击链接下载](https://github.com/DHDAXCW/OpenWRT_x86_x64/releases)
-- 仅支持MT7921无线网卡 全新刷机第一次开机网卡需要初始化，等2分钟无线自己会显示在网络里面
+- 仅支持MT7916 MT7921无线网卡
+- 仅支持FM160，其他模块自行解决。或者pr来~
 ### mt7916 WiFi设置
 - 第一次刷机上电，网络--里面没有弹出无线的不着急了。网卡第一次上电需要初始化，大概一分钟会出现无线，下次重启不需要等待，直接用。
 - 本次教程只适用mt7916网卡，和mt7921差不多设置。
@@ -33,7 +34,7 @@
 - 最后应用保存再应用保存后自动跳回去，然后2.4g和5g全部启用后，信号就出来了~
 ![image](https://github.com/DHDAXCW/hinlink-opc-h6xk/assets/74764072/ef716071-bf10-4243-8a7c-e903cfdd4811)
 ### 5G模块启用方法
-- 仅支持广和通fm160  我手里没有移远rm500q。。。不要插**SIM2**
+- 仅支持广和通fm160 ，其他模块自行解决。。。不要插**SIM2**
 - 网络--USB移动网络拨号服务
 - APN:移动：cmnet  联通：3gnet 电信：ctnet
 ![1682406728444](https://user-images.githubusercontent.com/74764072/234201770-3a796152-5873-4152-a34b-705eeb49bfd4.jpg)
