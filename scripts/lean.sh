@@ -14,6 +14,10 @@ cp -f $GITHUB_WORKSPACE/Makefile package/kernel/mac80211/Makefile
 
 # alist
 git clone https://github.com/sbwml/luci-app-alist package/alist
+pushd package/alist
+git reset --hard a5837a2014396cc330573c9d0b76863cf5651e07
+popd
+
 rm -rf feeds/packages/lang/golang
 svn export https://github.com/sbwml/packages_lang_golang/branches/19.x feeds/packages/lang/golang
 
